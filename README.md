@@ -1,2 +1,2 @@
-# programming
+# Coding
 competitive programming
